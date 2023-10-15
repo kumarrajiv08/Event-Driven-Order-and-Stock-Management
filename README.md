@@ -4,7 +4,7 @@
 
 ## Overview
 
-Event-Driven Order and Stock Management is a comprehensive microservices architecture project designed to revolutionize the way businesses manage orders and stock. This event-driven system is built on the principles of efficiency, real-time communication, and dynamic responses. By utilizing Kafka as the communication backbone, it enables businesses to process orders seamlessly, ensuring that stock availability is always up to date and orders are fulfilled without a hitch.
+An Event Driven microservices architecture project that 
 
 ## Key Features
 
